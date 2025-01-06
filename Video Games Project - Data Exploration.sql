@@ -1,3 +1,10 @@
+/*
+VIDEO GAME SALES DATA EXPLORATION 
+
+SKILLS USED: CTE's, Windows Functions, Aggregate Functions
+
+*/
+
 -- TOP 10 GAMES BY GLOBAL SALES--
 Select *
 From vgsales;
